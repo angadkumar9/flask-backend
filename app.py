@@ -25,3 +25,6 @@ def message():
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000)
+
+
+llo from Flask backend (deployed via Jenkins CI/CD)! ko Hello from Flask backend v2 (auto-deployed)!
